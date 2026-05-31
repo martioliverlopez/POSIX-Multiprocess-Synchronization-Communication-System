@@ -43,3 +43,10 @@ gcc -Wall -Wextra -std=c11 activitat1.c -o activitat1
 
 # Activity 2
 gcc -Wall -Wextra -std=c11 activitat2.c -o activitat2
+
+## 📈 Key Takeaways
+Mastered low-level Unix system calls: fork(), pipe(), waitpid(), and kill().
+
+Developed a strong practical understanding of race conditions, deadlocks, and process state machines.
+
+Implemented deterministic POSIX signal handling architectures.
